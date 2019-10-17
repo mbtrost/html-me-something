@@ -1,0 +1,18 @@
+
+h1 {
+    margin: auto;
+    padding: 150px 50px 75px 100px;
+};
+
+p {
+    margin-left: 200px;
+    margin-right: 50px;
+};
+
+.blueHeadline {
+    color: rgb(17, 0, 255);
+};
+
+article {
+    color: green;  
+};
