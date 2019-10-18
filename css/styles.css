@@ -6,8 +6,12 @@ h1 {
 
 p {
     margin-left: 200px;
-    margin-right: 50px;
+    margin-right: 200px;
 }
+
+#jobTitle {
+    background-color: rgb(196, 50, 159);
+  }
 
 .blueHeadline {
     color: rgb(17, 0, 255);
